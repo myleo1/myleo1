@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Leo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Golang
-- 🛢 &nbsp; PostgreSQL | MySQL | InfluxDB | Redis | Gin | Swagger
+- 🛢 &nbsp; PostgreSQL | MySQL | InfluxDB | Redis | Gin | Swagger | Kubernetes | Docker
 - 🔧 &nbsp; Goland | Visual Studio code | Sublime Text | Git
 
 <br>
