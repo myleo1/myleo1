@@ -19,4 +19,4 @@
 - 🔧 &nbsp; Goland | Visual Studio code | Sublime Text | Git
 
 <h3>🌐 Blog</h3>
-https://myleo1.github.io
+https://myleo1.github.io/
