@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on Cloud Native, Edge Computing in NetEase, Inc.
+- 🔭 &nbsp; I’m currently working on Cloud Native, Edge Computing.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Cloud platform R&D engineer and back-end web developer.
 
